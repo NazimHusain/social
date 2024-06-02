@@ -31,3 +31,8 @@ docker-compose build
 
 ## run Docker
 docker-compose up
+
+
+## postman collections
+
+https://api.postman.com/collections/19185171-7ed6c6fb-6d2d-4710-8fa6-c3bbf2c0ba1a?access_key=PMAT-01HZD4PAKPDTQWEZYYFPG5NSP0
